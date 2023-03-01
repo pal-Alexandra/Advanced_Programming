@@ -1,3 +1,3 @@
-# Advanced_Programming_Homework1
+# Advanced_Programming
 ## General Info 
-This program implements the first homework at Advanced Programming.
+This repository contains my work at the Advanced Programming subject.
