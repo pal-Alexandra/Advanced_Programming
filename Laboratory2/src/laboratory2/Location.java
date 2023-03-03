@@ -37,7 +37,7 @@ public class Location {
     }
 
     /**
-     * This method sets the name of tge location.
+     * This method sets the name of the location.
      *
      * @param name: Sets the name of the location
      */
