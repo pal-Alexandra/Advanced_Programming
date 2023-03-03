@@ -103,7 +103,7 @@ public class Road {
     /**
      * This method overrides the toString() method from the Object class.
      *
-     * @return : This method create and return a string which consists of the all the information of the road
+     * @return : This method creates and returns a string which consists of the all the information of the road
      */
     @Override
     public String toString() {
