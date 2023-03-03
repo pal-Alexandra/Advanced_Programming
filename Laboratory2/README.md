@@ -13,8 +13,8 @@ Each road has a type, length and a speed limit. The length of a road should not 
 We consider the problem of determining the "best" route from one location to another.
 
 ## Tasks
-  :smile: Create an object-oriented model of the problem. You should have (at least) the following classes: Location, Road;
+  * :smile: Create an object-oriented model of the problem. You should have (at least) the following classes: Location, Road;
 The location and road types will be implemented as enums;
-  :smile: Each class should have appropriate constructors, getters and setters;
-  :smile: The toString method form the Object class must be properly overridden for all the classes;
-  :smile: Create and print on the screen various objects of the two classes.
+  * :smile: Each class should have appropriate constructors, getters and setters;
+  * :smile: The toString method form the Object class must be properly overridden for all the classes;
+  * :smile: Create and print on the screen various objects of the two classes.
