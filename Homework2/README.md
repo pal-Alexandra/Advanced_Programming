@@ -19,3 +19,8 @@ We consider the problem of determining the "best" route from one location to ano
 * :smile: Implement a method that determines if a problem's instance is valid;
 * :smile: Implement an algorithm for determining if it is possible to go from one location to another using the given roads;
 
+
+### Demo
+This pictures shows the graph on which I tested the algorithm from the last task of the homework.
+![My Image](D:\Ale\Facultate\An II sem II\PA\Lab2_TEMA\tema.png)
+
