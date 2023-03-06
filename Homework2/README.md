@@ -22,5 +22,6 @@ We consider the problem of determining the "best" route from one location to ano
 
 ### Demo
 This pictures shows the graph on which I tested the algorithm from the last task of the homework.
-![My Image](D:\Ale\Facultate\An II sem II\PA\Lab2_TEMA\tema.png)
+
+![tema](https://user-images.githubusercontent.com/100137533/223167535-052735de-74c4-4e5d-9d25-79712afedc1f.png)
 
