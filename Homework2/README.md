@@ -13,9 +13,9 @@ Each road has a type, length and a speed limit. The length of a road should not 
 We consider the problem of determining the "best" route from one location to another.
 
 ## Homework tasks
-  * :smile: Create an object-oriented model of the problem. You should have (at least) the following classes: Location, Road;
-The location and road types will be implemented as enums;
-  * :smile: Each class should have appropriate constructors, getters and setters;
-  * :smile: The toString method form the Object class must be properly overridden for all the classes;
-  * :smile: Create and print on the screen various objects of the two classes.
+    * :smile: Create a class that describes an instance of the problem;
+    * :smile: Override the Object.equals method for the Location and Road classes. The problem should not allow adding the same location or road twice;
+    * :smile: Instead of using an enum, create dedicated classes either for locations: cities, air ports, gas stations etc. or roads: highway, express, country, etc. Each concrete location class may have additional specific propertes (population, number of terminals, gas price, etc.);
+    * :smile: Implement a method that determines if a problem's instance is valid;
+    * :smile: Implement an algorithm for determining if it is possible to go from one location to another using the given roads;
 
