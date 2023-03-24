@@ -1,16 +1,17 @@
 ## General info
-This folder contains the solution for compulsory exercices from the forth laboratory. Solved/ unsolved tasks are checkmarked (:smile: / :confused:).
+This folder contains the solution for compulsory exercices from the fifth laboratory. Solved/ unsolved tasks are checkmarked (:smile: / :confused:).
 
 # The problem
-The Student-Project Allocation Problem
 
-An instance of this problem consists of students and projects. Each student has a list of projects that are admissible.
+Document Management System
 
-A matching is a set of pairs (student, project) such that each student is assigned to at most one project and each project is assigned to at most one student. We consider the problem of creating a maximum cardinality matching between students and projects.
+Write an application that can manage a catalog of documents. An entry in this catalog might be an article, a book, etc.
+A document may be located using a path in the local file system or a link to an external URL. Each document has a unique ID, a name and may have additional tags, which are pairs name-value. Example of tags may be title, author, year, publishingDate, etc.
 
 ## Tasks
-  * :smile: Create a Maven project;
-  * :smile: Create an object-oriented model of the problem. Students and projects have names. Make sure the objects of these classes are comparable;
-  * :smile: Create the students and the projects described in the example. Use streams in order to easily create the objects;
-  * :smile: Put all the students in a LinkedList and print them sorted by their names;
-  * :smile: Put all the projects in a TreeSet and print them sorted by their names.
+  * :smile: Create an object-oriented model of the problem. You should have at least the following classes: Catalog, Document. Create a class responsible with external operations regarding a catalog;
+  * :smile: Implement the following methods representing commands that will manage the content of the catalog:
+      * add: adds a new entry into the catalog;
+      * toString: a textual representation of the catalog;
+      * save: saves the catalog to an external file using JSON format; you may use Jackson or other library;
+      * load: loads the catalog from an external file.
