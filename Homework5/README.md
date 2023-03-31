@@ -1,5 +1,5 @@
 ## General info
-This folder contains the solution for compulsory exercices from the fifth laboratory. Solved/ unsolved tasks are checkmarked (:smile: / :confused:).
+This folder contains the solution for compulsory exercices from the fifth homework. Solved/ unsolved tasks are checkmarked (:smile: / :confused:).
 
 # The problem
 
