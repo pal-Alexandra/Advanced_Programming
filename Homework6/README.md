@@ -13,7 +13,9 @@ Variant 1: Each player tries to create a triangle made solely of his color. The 
 
 Variant 2: Each player tries to avoid the creation of a triangle made solely of his color. The player who cannot avoid creating such a triangle, loses the game.
 
-In order to create a graphical user interface for the game, you may use either Swing or JavaFX. I used Swing.
+In order to create a graphical user interface for the game, you may use either Swing or JavaFX. 
+
+For the task below, I used Swing and I implemented the Variant 1 of the game.
 
 ## Tasks
   * :smile: Create the object oriented model of the game. Consider implementing a retained mode for drawing the game board;
