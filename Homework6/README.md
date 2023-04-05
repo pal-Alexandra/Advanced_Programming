@@ -15,7 +15,7 @@ Variant 2: Each player tries to avoid the creation of a triangle made solely of 
 
 In order to create a graphical user interface for the game, you may use either Swing or JavaFX. 
 
-For the task below, I used Swing and I implemented the Variant 1 of the game.
+For the tasks below, I used Swing and I implemented the Variant 1 of the game.
 
 ## Tasks
   * :smile: Create the object oriented model of the game. Consider implementing a retained mode for drawing the game board;
