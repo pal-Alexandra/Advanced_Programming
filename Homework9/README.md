@@ -18,7 +18,7 @@ Verify the presence of the persistence.xml file in your project. Make sure that 
   * :smile: Test your application.
 
 ## Tasks (for homework9)
-    * :smile: Create all entity classes and repositories. Implement properly the one-to-many and many-to-many relationships.
-    * :smile: Create all entity classes and repositories. Implement properly the one-to-many and many-to-many relationships.
-    * :smile: Create a generic AbstractRepository using generics in order to simplify the creation of the repository classes. You may take a look at the CrudRepository interface from Spring Framework.
-    * :smile: Insert, using JPA, a large number of fake artists and albums in the database and log the execution time of your JPQL statements.
+  * :smile: Create all entity classes and repositories. Implement properly the one-to-many and many-to-many relationships.
+  * :smile: Create all entity classes and repositories. Implement properly the one-to-many and many-to-many relationships.
+  * :smile: Create a generic AbstractRepository using generics in order to simplify the creation of the repository classes. You may take a look at the CrudRepository interface from Spring Framework.
+  * :smile: Insert, using JPA, a large number of fake artists and albums in the database and log the execution time of your JPQL statements.
