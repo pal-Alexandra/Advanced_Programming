@@ -12,8 +12,8 @@ Verify the presence of the persistence.xml file in your project. Make sure that 
   * :smile: Define the entity classes for your model (at least one) and put them in a dedicated package. You may use the IDE support in order to generate entity classes from database tables.
   * :smile: Create a singleton responsible with the management of an EntityManagerFactory object.
   * :smile: Define repository clases for your entities (at least one). They must contain the following methods:
-       * :smile: create - receives an entity and saves it into the database;
-       * :smile: findById - returns an entity based on its primary key;
-       * :smile: findByName - returns a list of entities that match a given name pattern. Use a named query in order to implement this method.
+   * :smile: create - receives an entity and saves it into the database;
+   * :smile: findById - returns an entity based on its primary key;
+   * :smile: findByName - returns a list of entities that match a given name pattern. Use a named query in order to implement this method.
   * :smile: Test your application.
   
