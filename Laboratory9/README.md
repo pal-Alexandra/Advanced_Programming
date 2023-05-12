@@ -6,6 +6,9 @@ This folder contains the solution for the ninth laboratory. Solved/ unsolved tas
 Persistence
 Continue the application from laboratory8, creating an object-oriented model and using JPA (Java Persistence API) in order to communicate with the relational database.
 
+# NOTE
+I used JAVA Spring framework to solve this tasks.
+
 ## Tasks
   * :smile: Create a persistence unit (use EclipseLink or Hibernate or other JPA implementation).
 Verify the presence of the persistence.xml file in your project. Make sure that the driver for EclipseLink or Hibernate was added to to your project classpath (or add it yourself).
