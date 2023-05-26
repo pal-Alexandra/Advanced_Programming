@@ -1,5 +1,5 @@
 ## General info
-This folder contains the solution for the eleventh homework. Solved/ unsolved tasks are checkmarked (:smile: / :confused:).
+This folder contains the solution for the eleventh laboratory. Solved/ unsolved tasks are checkmarked (:smile: / :confused:).
 
 # The problem
 
